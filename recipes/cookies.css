@@ -1,0 +1,33 @@
+h1 {
+    color:brown;
+    background-color:lightgoldenrodyellow;
+    font-family:'Courier New', Courier, monospace;
+    font-size:25px;
+    text-align:center;
+}
+h3 {
+    color:brown;
+    background-color:lightgoldenrodyellow;
+    font-family:'Courier New', Courier, monospace;
+    font-size:25px;
+    text-align:center;
+}
+
+p {
+    color:brown;
+    background-color:lightgoldenrodyellow;
+    font-size:18px;
+    text-align: center;
+}
+
+ul {
+    color:lightgoldenrodyellow;
+    background-color:brown;
+    text-align:center;
+}
+
+ol {
+    color:lightgoldenrodyellow;
+    background-color:brown;
+    text-align:center;
+}
