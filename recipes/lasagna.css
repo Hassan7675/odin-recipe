@@ -1,17 +1,51 @@
 h1 {
     color:yellow;
     background-color:red;
+    height: 40px;
+    width:190px;
+    margin:5px auto;
+    border:5px solid yellow;
+    text-align:center;
 }
 h3 {
     font-size:22px;
     font-weight:900px;
+    background-color:yellow;
+    width:225px;
+    text-align:center;
+    border:5px solid black;
+    margin:5px auto;
+
 }
 
+p {
+    text-align:center;
+    border:5px solid black;
+    width: 500px;
+    margin:5px auto;
+}
 ul {
     color:red;
     background-color:yellow;
+    width:200px;
+    height: auto;
+    text-align:center;
+    margin:5px auto;
+    border:5px solid red;
 }
 ol{
     color:yellow;
     background-color:red;
+    width: 300px;
+    text-align:cener;
+    height:auto;
+    margin:5px auto;
+    border: 5px solid yellow;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
 }

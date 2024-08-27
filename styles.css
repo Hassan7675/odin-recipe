@@ -2,10 +2,23 @@ h1 {
     color:red;
     background-color:yellow;
     font-family:'Arial', Times, serif;
+    width: 240px;
+    height: 55px;
+    padding:5px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    margin: 0px auto;
+    text-align: center;
 }
 
 ul {
     color:blue;
     background-color:yellow;
     font-family:'Arial', Times, serif;
+    width: 55px;
+    height: 60px;
+    padding:10px;
+    text-align: center;
+    margin:5px auto;
+    border: 5px solid black;
 }
